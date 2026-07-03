@@ -65,7 +65,7 @@ dependencies {
     compileOnly "maven.modrinth:malum:1.8.2"
     compileOnly "maven.modrinth:lodestonelib:1.8.2"        // Malum recipe base (LodestoneInWorldRecipe)
     compileOnly "maven.modrinth:l2library:3.0.8"
-    compileOnly "maven.modrinth:extradelight:2.6.5"
+    compileOnly "maven.modrinth:extradelight:2.6.6"
     compileOnly "maven.modrinth:dungeons_delight:1.5.0"
     compileOnly "maven.modrinth:expanded-delight:0.1.4-neoforge"
     compileOnly "maven.modrinth:avaritias-delight:1.6.3"
