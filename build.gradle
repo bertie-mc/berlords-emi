@@ -64,7 +64,7 @@ dependencies {
     compileOnly "maven.modrinth:enderio:v8.2.11-beta"
     compileOnly "maven.modrinth:malum:1.8.2"
     compileOnly "maven.modrinth:lodestonelib:1.8.2"        // Malum recipe base (LodestoneInWorldRecipe)
-    compileOnly "maven.modrinth:l2library:3.0.8"
+    compileOnly "maven.modrinth:l2library:26.1.2.0"
     compileOnly "maven.modrinth:extradelight:2.6.5"
     compileOnly "maven.modrinth:dungeons_delight:1.5.0"
     compileOnly "maven.modrinth:expanded-delight:0.1.4-neoforge"
