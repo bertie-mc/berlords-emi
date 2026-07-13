@@ -61,7 +61,7 @@ dependencies {
     compileOnly "maven.modrinth:irons-spells-n-spellbooks:1.21.1-3.16.0"
     compileOnly "maven.modrinth:forbidden-arcanus:2.6.1"
     compileOnly "maven.modrinth:terra-curio:1.1.1"
-    compileOnly "maven.modrinth:enderio:v8.2.11-beta"
+    compileOnly "maven.modrinth:enderio:v9.0.5-alpha"
     compileOnly "maven.modrinth:malum:1.8.2"
     compileOnly "maven.modrinth:lodestonelib:1.8.2"        // Malum recipe base (LodestoneInWorldRecipe)
     compileOnly "maven.modrinth:l2library:3.0.8"
