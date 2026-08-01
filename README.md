@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Development has moved to [`bertie-mc/bertie`](https://github.com/bertie-mc/bertie/tree/main/mods/berlords-emi). This repository is retained read-only for historical tags, releases, and issues.
+
 # Berlord's EMI Integration
 
 Native EMI recipe-viewer plugins (28 modules) for machine mods that only ship JEI plugins.
